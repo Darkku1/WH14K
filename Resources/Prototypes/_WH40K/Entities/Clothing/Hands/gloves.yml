@@ -67,3 +67,16 @@
   - type: Clothing
     sprite: _WH40K/Clothing/Hands/Gloves/colonelshand.rsi
   - type: Insulated
+
+- type: entity
+  parent: ClothingHandsGlovesColorBlack
+  id: ClothingHandsGlovesCombatVoidsman
+  name: боевые перчатки
+  description: Боевые перчатки флота.
+  suffix: WH40K, войдсмены
+  components:
+  - type: Sprite
+    sprite: _WH40K\Clothing\Hands\Gloves\gloves_fingerless_cult.rsi
+  - type: Clothing
+    sprite: _WH40K\Clothing\Hands\Gloves\gloves_fingerless_cult.rsi
+  - type: Insulated
